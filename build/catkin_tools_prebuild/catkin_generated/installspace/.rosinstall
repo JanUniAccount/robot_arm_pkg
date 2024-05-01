@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/student/robot_ws/src/robot_arm_pkg/install/setup.sh

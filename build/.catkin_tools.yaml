@@ -1,0 +1,6 @@
+devel_space: /home/student/robot_ws/src/robot_arm_pkg/devel
+install: false
+install_space: /home/student/robot_ws/src/robot_arm_pkg/install
+profile: default
+source_space: /home/student/robot_ws/src/robot_arm_pkg/src
+workspace: /home/student/robot_ws/src/robot_arm_pkg
